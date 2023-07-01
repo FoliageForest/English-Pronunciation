@@ -1,3 +1,128 @@
+2023-06-27  
+
+**slogan** _n._  
+> uk /ˈsləʊ.ɡən/ us /ˈsloʊ.ɡən/
+
+2023-06-18  
+
+**purchase**  
+_v._  
+> uk /ˈpɜː.tʃəs/ us /ˈpɝː.tʃəs/
+
+_n._  
+> uk /ˈpɜː.tʃəs/ us /ˈpɝː.tʃəs/
+
+2023-06-17  
+
+**banner** _n._  
+> uk /ˈbæn.ə<sup>r</sup>/ us /ˈbæn.ɚ/
+
+2023-06-16  
+
+**vague** _adj._  
+> uk /veɪɡ/ us /veɪɡ/
+
+2023-06-15  
+
+**premium**  
+_n._  
+> us uk /ˈpriː.mi.əm/
+
+_adj._  
+> us uk /ˈpriː.mi.əm/
+
+**paperback** _n._  
+> uk /ˈpeɪ.pə.bæk/ us /ˈpeɪ.pɚ.bæk/
+
+2023-06-15  
+
+**frequent**  
+_adj._  
+> uk /ˈfriː.kw<sup>ə</sup>nt/ us /ˈfriː.kw<sup>ə</sup>nt/
+
+_v._  
+> uk /frɪˈkwent/ us /ˈfriː.kw<sup>ə</sup>nt/
+
+2023-06-14  
+
+**retain** _v._  
+> uk /rɪˈteɪn/ us /rɪˈteɪn/
+
+2023-06-10  
+
+**variable**  
+_adj._  
+> uk /ˈveə.ri.ə.b<sup>ə</sup>l/ us /ˈver.i.ə.b<sup>ə</sup>l/
+
+_n._  
+> uk /ˈveə.ri.ə.b<sup>ə</sup>l/ us /ˈver.i.ə.b<sup>ə</sup>l/
+
+**millennium** plural **millennia** or **millenniums** _n._  
+> uk /mɪˈlen.i.əm/ us /mɪˈlen.i.əm/
+
+**recommended** _adj._  
+> uk /ˌrek.əˈmen.dɪd/ us /ˌrek.əˈmen.dɪd/  
+
+**fraudulent** _adj._  
+> uk /ˈfrɔː.dʒə.lənt/ us /ˈfrɑː.dʒə.lənt/
+
+**scam** _n._  
+> uk /skæm/ us /skæm/
+
+**aware** _adj._  
+> uk /əˈweə<sup>r</sup>/ us /əˈwer/
+
+2023-06-07  
+
+**risk**
+_n._  
+> uk /rɪsk/ us /rɪsk/  
+
+_v._  
+> uk /rɪsk/ us /rɪsk/
+
+**merchant** _n._  
+> uk /ˈmɜː.tʃ<sup>ə</sup>nt/ us /ˈmɝː.tʃ<sup>ə</sup>nt/
+
+2023-06-06  
+
+**heat**  
+_n._  
+> uk /hiːt/ us /hiːt/
+
+_v._  
+> uk /hiːt/ us /hiːt/
+
+**annotation** _n._  
+> uk /ˌæn.əˈteɪ.ʃ<sup>ə</sup>n/ us /ˌæn.əˈteɪ.ʃ<sup>ə</sup>n/
+
+2023-06-05  
+
+**animation** _n._  
+> uk /ˌæn.ɪˈmeɪ.ʃ<sup>ə</sup>n/ us /ˌæn.əˈmeɪ.ʃ<sup>ə</sup>n/
+
+**detached** _adj._  
+> uk /dɪˈtætʃt/ us /dɪˈtætʃt/
+
+**revert** _v._  
+> uk /rɪˈvɜːt/ us /rɪˈvɝːt/
+
+2023-06-04  
+
+**previous**  
+_adj._  
+> uk /ˈpriː.vi.əs/ us /ˈpriː.vi.əs/
+
+_n._  
+> uk /ˈpriː.vi.əs/ us /ˈpriː.vi.əs/
+
+**thumb**  
+_n._  
+> uk /θʌm/ us /θʌm/
+
+_v._  
+> uk /θʌm/ us /θʌm/
+
 2023-06-03  
 
 **experimental** _adj._  
@@ -3545,7 +3670,10 @@ _v._ /ləˈdʒɪt.ə.məɪt/
 > - The evening news has subtitles for the deaf.  
 >   晚间新闻为聋哑人士配了字幕。  
 
-**entirely** /ɪnˈtaɪə.li/ _adv._ completely 完全；彻底；完整地  
+**entirely** _adv._  
+> uk /ɪnˈtaɪə.li/ us /ɪnˈtaɪr.li/
+
+completely 完全；彻底；完整地  
 - I admit it was entirely my fault.  
   我承认全都是我的错。  
 - The company is run almost entirely by middle-aged men.  
@@ -5888,8 +6016,8 @@ _adj._
     那道三文鱼菜佐以新鲜的蔬菜色拉。  
 
 **exact**  
-_adj._
-> 
+_adj._  
+> uk /ɪɡˈzækt/ us /ɪɡˈzækt/
 
 in great detail, or complete, correct, or true in every way 精确的；确切的；正确的  
 
@@ -5905,6 +6033,7 @@ in great detail, or complete, correct, or true in every way 精确的；确切�
   占星术与天文学不同，严格来说，占星术不能称为一门科学。  
 
 _v._ <small>formal</small>  
+> uk /ɪɡˈzækt/ us /ɪɡˈzækt/
 
 **specific** _adj._  
 > uk /spəˈsɪf.ɪk/ us /spəˈsɪf.ɪk/  
@@ -6107,7 +6236,8 @@ _adj._ /ˈpraɪ.m<sup>ə</sup>r.i/
 
 _n._ /ˈpraɪ.mə.ri/  
 
-**revision** /rɪˈvɪʒ.<sup>ə</sup>n/ _n._  
+**revision** _n._  
+> uk /rɪˈvɪʒ.<sup>ə</sup>n/ us /rɪˈvɪʒ.<sup>ə</sup>n/
 
 * <small>(CHANGE)</small> a change that is made to something, or the process of doing this 修正；修改  
   - These proposals will need a lot of revision.  
