@@ -1,3 +1,78 @@
+2023-08-27  
+
+**established** _adj._  
+> uk /ɪˈstæb.lɪʃt/ us /ɪˈstæb.lɪʃt/  
+
+2023-08-27  
+
+**extent** _n._  
+> uk /ɪkˈstent/ us /ɪkˈstent/  
+
+2023-08-21  
+
+**guarantee**  
+_n._  
+> uk /ˌɡær.<sup>ə</sup>nˈtiː/ us /ˌɡer.<sup>ə</sup>nˈtiː/  
+
+_v._  
+> uk /ˌɡær.<sup>ə</sup>nˈtiː/ us /ˌɡer.<sup>ə</sup>nˈtiː/  
+
+2023-08-17  
+
+**decompress** _v._  
+> uk /ˌdiː.kəmˈpres/ us /ˌdiː.kəmˈpres/  
+
+2023-08-15  
+
+**Cambodia** _n._  
+> uk /kæmˈbəʊ.di.ə/ us /kæmˈboʊ.di.ə/  
+
+2023-08-10  
+
+**Ethernet** _n._  
+> uk /ˈiː.θə.net/ us /ˈiː.θɚ.net/
+
+2023-08-07  
+
+**firewall** _n._  
+> uk /ˈfaɪə.wɔːl/ us /ˈfaɪə.wɔːl/  
+
+**zone**
+
+_n._  
+> uk /zəʊn/ us /zoʊn/
+
+_v._  
+> uk /zəʊn/ us /zoʊn/  
+
+2023-07-17  
+
+**authorization** _n._ (UK usually **authorisation**)  
+> uk /ˌɔː.θ<sup>ə</sup>r.aɪˈzeɪ.ʃ<sup>ə</sup>n/ us /ˌɑː.θɚ.əˈzeɪ.ʃ<sup>ə</sup>n/  
+
+2023-07-16  
+
+**recording** _n._  
+> uk /rɪˈkɔː.dɪŋ/ us /rɪˈkɔːr.dɪŋ/  
+
+2023-07-14  
+
+**enrolment** _n._ UK (US **enrollment**)  
+> uk /ɪnˈrəʊl.mənt/ us /ɪnˈroʊl.mənt/
+
+2023-07-13  
+
+**propagate** _v._  
+> uk /ˈprɒp.ə.ɡeɪt/ us /ˈprɑː.pə.ɡeɪt/
+
+**evolution** _n._  
+> uk /ˌiː.vəˈluː.ʃ<sup>ə</sup>n/ /ˌev.əˈluː.ʃ<sup>ə</sup>n/ us /ˌiː.vəˈluː.ʃ<sup>ə</sup>n/ /ˌev.əˈluː.ʃ<sup>ə</sup>n/
+
+2023-07-02  
+
+**musician**  _n._  
+> uk /mjuːˈzɪʃ.<sup>ə</sup>n/ us /mjuːˈzɪʃ.<sup>ə</sup>n/
+
 2023-06-27  
 
 **slogan** _n._  
