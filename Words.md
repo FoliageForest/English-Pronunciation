@@ -1,3 +1,828 @@
+2023-11-23  
+
+**malicious** _adj._  
+> uk /məˈlɪʃ.əs/ us /məˈlɪʃ.əs/  
+
+2023-11-10  
+
+**chartered** _adj._  
+> uk /ˈtʃɑː.təd/ us /ˈtʃɑːr.tɚd/  
+
+2023-11-07  
+
+**assemble** _v._  
+> uk /əˈsem.b<sup>ə</sup>l/ us /əˈsem.b<sup>ə</sup>l/  
+
+**funnel**  
+_n._  
+> uk /ˈfʌn.<sup>ə</sup>l/ us /ˈfʌn.<sup>ə</sup>l/  
+
+_v._  
+> uk /ˈfʌn.<sup>ə</sup>l/ us /ˈfʌn.<sup>ə</sup>l/  
+
+**business** _n._  
+> uk /ˈbɪz.nɪs/ us /ˈbɪz.nɪs/  
+
+**intelligence** _n._  
+> uk /ɪnˈtel.ɪ.dʒ<sup>ə</sup>ns/ us /ɪnˈtel.ə.dʒ<sup>ə</sup>ns/  
+
+2023-11-05  
+
+**ripple**  
+_n._  
+> uk /ˈrɪp.<sup>ə</sup>l/ us /ˈrɪp.<sup>ə</sup>l/  
+
+_v._  
+> uk /ˈrɪp.<sup>ə</sup>l/ us /ˈrɪp.<sup>ə</sup>l/  
+
+2023-10-29  
+
+**conformance** _n._  
+> uk /kənˈfɔː.məns/ us /kənˈfɔːr.məns/  
+
+**octal** _adj._  
+> uk /ˈɒk.t<sup>ə</sup>l/ us /ˈɑːk.t<sup>ə</sup>l/  
+
+2023-10-28  
+
+**sticky** _adj._  
+> uk /ˈstɪk.i/ us /ˈstɪk.i/  
+
+**banana**  
+_n._  
+> uk /bəˈnɑː.nə/ us /bəˈnæn.ə/  
+
+**operate**  
+_v._  
+> uk /ˈɒp.<sup>ə</sup>r.eɪt/ us /ˈɑː.pə.reɪt/  
+
+2023-10-27  
+
+**icon** _n._  
+> uk /ˈaɪ.kɒn/ us /ˈaɪ.kɑːn/  
+
+**scatter** _v._  
+> uk /ˈskæt.ə<sup>r</sup>/ us /ˈskæt̬.ɚ/  
+
+2023-10-25  
+
+**administer** _v._  
+> uk /ədˈmɪn.ɪ.stə<sup>r</sup>/ us /ədˈmɪn.ə.stɚ/  
+
+2023-10-24  
+
+**orientation** _n._  
+> uk /ˌɔː.ri.enˈteɪ.ʃ<sup>ə</sup>n/ us /ˌɔːr.i.enˈteɪ.ʃ<sup>ə</sup>n/  
+
+**boundary** _n._  
+> uk /ˈbaʊn.d<sup>ə</sup>r.i/ us /ˈbaʊn.d<sup>ə</sup>r.i/  
+
+**tick**  
+_n._  
+> uk /tɪk/ us /tɪk/  
+
+_v._  
+> uk /tɪk/ us /tɪk/  
+
+2023-10-22  
+
+**zombie** _n._  
+> uk /ˈzɒm.bi/ us /ˈzɑːm.bi/  
+
+2023-10-21  
+
+**apply** _v._  
+> uk /əˈplaɪ/ us /əˈplaɪ/  
+
+2023-10-16  
+
+**associate**  
+_v._  
+> uk /əˈsəʊ.si.eɪt/ us /əˈsoʊ.ʃi.eɪt/  
+
+_n._  
+> uk /əˈsəʊ.ʃi.ət/ us /əˈsoʊ.ʃi.ət/  
+
+_adj._  
+> uk /əˈsəʊ.si.ət/ us /əˈsoʊ.ʃi.ət/  
+
+2023-10-14  
+
+**swag** _n._  
+> uk /swæɡ/ us /swæɡ/  
+
+2023-10-13  
+
+**opacity** _n._  
+> uk /əʊˈpæs.ə.ti/ us /oʊˈpæs.ə.t̬i/  
+
+**channel**  
+_n._  
+> uk /ˈtʃæn.<sup>ə</sup>l/ us /ˈtʃæn.<sup>ə</sup>l/  
+
+_v._  
+> uk /ˈtʃæn.<sup>ə</sup>l/ us /ˈtʃæn.<sup>ə</sup>l/  
+
+2023-10-12  
+
+**passive**  
+_adj._  
+> uk /ˈpæs.ɪv/ us /ˈpæs.ɪv/  
+
+_n._  
+> uk /ˈpæs.ɪv/ us /ˈpæs.ɪv/  
+
+**desirable** _adj._  
+> uk /dɪˈzaɪə.rə.b<sup>ə</sup>l/ us /dɪˈzaɪr.ə.b<sup>ə</sup>l/  
+
+**survey**  
+_n._  
+> uk /ˈsɜː.veɪ/ us /ˈsɝː.veɪ/  
+
+_v._  
+> uk /səˈveɪ/ /ˈsɜː.veɪ/ us /sɚˈveɪ/  
+
+**forward**  
+_adv._  
+> uk /ˈfɔː.wəd/ us /ˈfɔːr.wɚd/  
+
+_adj._  
+> uk /ˈfɔː.wəd/ us /ˈfɔːr.wɚd/  
+
+_v._  
+> uk /ˈfɔː.wəd/ us /ˈfɔːr.wɚd/  
+
+_n._  
+> uk /ˈfɔː.wəd/ us /ˈfɔːr.wɚd/  
+
+**administratively** _adv._  
+> uk /ədˈmɪn.ɪ.strə.tɪv.li/ us /ədˈmɪn.ə.strə.t̬ɪv.li/  
+
+2023-10-11  
+
+**eject** _v._  
+> uk /iˈdʒekt/ us /iˈdʒekt/  
+
+2023-10-10  
+
+**percent**
+
+2023-10-09  
+
+**due**  
+_adj._  
+> uk /dʒuː/ us /duː/  
+
+**tow**  
+_v._  
+> uk /təʊ/ us /toʊ/  
+
+_n._  
+> uk /təʊ/ us /toʊ/  
+
+**terse** _adj._  
+> uk /tɜːs/ us /tɝːs/  
+
+**suitable** _adj._  
+> uk /ˈsuː.tə.b<sup>ə</sup>l/ /ˈsjuː.tə.b<sup>ə</sup>l/ us /ˈsuː.t̬ə.b<sup>ə</sup>l/  
+
+**vary** _v._  
+> uk /ˈveə.ri/ us /ˈver.i/  
+
+**headless** _adj._  
+> uk /ˈhed.ləs/ us /ˈhed.ləs/  
+
+**typical** _adj._  
+> uk /ˈtɪp.ɪ.k<sup>ə</sup>l/ us /ˈtɪp.ɪ.k<sup>ə</sup>l/  
+
+2023-10-08  
+
+**deactivate** _v._  
+> uk /ˌdiˈæk.tɪ.veɪt/ us /ˌdiˈæk.tɪ.veɪt/  
+
+2023-10-06  
+
+**implicitly** _adv._  
+> uk /ɪmˈplɪs.ɪt.li/ us /ɪmˈplɪs.ɪt.li/  
+
+**invert** _v._  
+> uk /ɪnˈvɜːt/ us /ɪnˈvɝːt/  
+
+**effective** _adj._  
+> uk /ɪˈfek.tɪv/ us /əˈfek.tɪv/  
+
+2023-10-05  
+
+**usable** _adj._  
+> uk /ˈjuː.zə.b<sup>ə</sup>l/ us /ˈjuː.zə.b<sup>ə</sup>l/  
+
+**consent**  
+_n._  
+> uk /kənˈsent/ us /kənˈsent/  
+
+_v._  
+> uk /kənˈsent/ us /kənˈsent/  
+
+**leisure** _n._  
+> uk /ˈleʒ.ə<sup>r</sup>/ us /ˈliː.ʒɚ/  
+
+**significant** _adj._  
+> uk /sɪɡˈnɪf.ɪ.k<sup>ə</sup>nt/ us /sɪɡˈnɪf.ə.k<sup>ə</sup>nt/  
+
+2023-10-04  
+
+**topology** _n._  
+> uk /tɒpˈɒl.ə.dʒi/ us /təˈpɑː.lə.dʒi/  
+
+**administrative** _adj._  
+> uk /ədˈmɪn.ɪ.strə.tɪv/ us /ədˈmɪn.ə.strə.t̬ɪv/  
+
+**feasible** _adj._  
+> uk /ˈfiː.zə.b<sup>ə</sup>l/ us /ˈfiː.zə.b<sup>ə</sup>l/  
+
+**periodic** _adj._  
+> uk /ˌpɪə.riˈɒd.ɪk/ us /ˌpɪr.iˈɑː.dɪk/  
+
+**examine** _v._  
+> uk /ɪɡˈzæm.ɪn/ us /ɪɡˈzæm.ɪn/  
+
+2023-10-03  
+
+**possibly** _adv._  
+> uk /ˈpɒs.ə.bli/ us /ˈpɑː.sə.bli/  
+
+**overload**  
+_v._  
+> uk /ˌəʊ.vəˈləʊd/ us /ˌoʊ.vɚˈloʊd/  
+
+_n._  
+> uk /ˈəʊ.və.ləʊd/ us /ˈoʊ.vɚ.loʊd/  
+
+2023-10-02  
+
+**inconsistent** _adj._  
+> uk /ˌɪn.kənˈsɪs.t<sup>ə</sup>nt/ us /ˌɪn.kənˈsɪs.t<sup>ə</sup>nt/  
+
+2023-10-01  
+
+**delay**  
+_v._  
+> uk /dɪˈleɪ/ us /dɪˈleɪ/  
+
+_n._  
+> uk /dɪˈleɪ/ us /dɪˈleɪ/  
+
+**announce**  
+_v._  
+> uk /əˈnaʊns/ us /əˈnaʊns/  
+
+**inspect** _v._  
+> uk /ɪnˈspekt/ us /ɪnˈspekt/  
+
+2023-09-30  
+
+**metric** _adj._  
+> uk /ˈmet.rɪk/ us /ˈmet.rɪk/  
+
+**resolved** _adj._  
+> uk /rɪˈzɒlvd/ us /rɪˈzɑːlvd/  
+
+2023-09-29  
+
+**secure**  
+_adj._  
+> uk /sɪˈkjʊə<sup>r</sup>/ us /səˈkjʊr/  
+
+_v._  
+> uk /sɪˈkjʊə<sup>r</sup>/ us /səˈkjʊr/  
+
+**communist**  
+_adj._ (also **Communist**)  
+> uk /ˈkɒm.jə.nɪst/ us /ˈkɑː.m.jə.nɪst/  
+
+_n._ (also **Communist**)  
+> uk /ˈkɒm.jə.nɪst/ us /ˈkɑː.m.jə.nɪst/  
+
+**movement** _n._  
+> uk /ˈmuːv.mənt/ us /ˈmuːv.mənt/  
+
+**national**  
+_adj._  
+> uk /ˈnæʃ.<sup>ə</sup>n.<sup>ə</sup>l/ /ˈnæʃ.n<sup>ə</sup>l/ us /ˈnæʃ.<sup>ə</sup>n.<sup>ə</sup>l/ /ˈnæʃ.n<sup>ə</sup>l/  
+
+_n._  
+> uk /ˈnæʃ.<sup>ə</sup>n.<sup>ə</sup>l/ /ˈnæʃ.n<sup>ə</sup>l/ us /ˈnæʃ.<sup>ə</sup>n.<sup>ə</sup>l/ /ˈnæʃ.n<sup>ə</sup>l/  
+
+**weaken** _v._  
+> uk /ˈwiː.k<sup>ə</sup>n/ us /ˈwiː.k<sup>ə</sup>n/  
+
+**report**  
+_v._  
+> uk /rɪˈpɔːt/ us /rɪˈpɔːrt/  
+
+_n._  
+> uk /rɪˈpɔːt/ us /rɪˈpɔːrt/  
+
+**reform**  
+_v._  
+> uk /rɪˈfɔːm/ us /rɪˈfɔːrm/  
+
+_n._  
+> uk /rɪˈfɔːm/ us /rɪˈfɔːrm/  
+
+**democratic** _adj._  
+> uk /ˌdem.əˈkræt.ɪk/ us /ˌdem.əˈkræt̬.ɪk/  
+
+**cause célèbre** _n._ <small>plural causes célèbres /ˌkɔːz.selˈeb.rə/ /ˌkɑːz-/</small>  
+> uk /ˌkɔːz selˈeb.rə/ us /ˌkɑːz selˈeb.rə/  
+
+**landslide** _n._  
+> uk /ˈlænd.slaɪd/ us /ˈlænd.slaɪd/  
+
+**organizer** _n._ (UK usually **organiser**)  
+> uk /ˈɔː.ɡ<sup>ə</sup>n.aɪ.zə<sup>r</sup>/ us /ˈɔːr.ɡ<sup>ə</sup>n.aɪ.zɚ/  
+
+**secret**  
+_n._  
+> uk /ˈsiː.krət/ us /ˈsiː.krət/  
+
+_adj._  
+> uk /ˈsiː.krət/ us /ˈsiː.krət/  
+
+**ballot**  
+_n._  
+> uk /ˈbæl.ət/ us /ˈbæl.ət/  
+
+_v._  
+> uk /ˈbæl.ət/ us /ˈbæl.ət/  
+
+**arrest** 
+_v._  
+> uk /əˈrest/ us /əˈrest/  
+
+_n._  
+> uk /əˈrest/ us /əˈrest/  
+
+**admit** _v._  
+> uk /ədˈmɪt/ us /ədˈmɪt/  
+
+**complaint** _n._  
+> uk /kəmˈpleɪnt/ us /kəmˈpleɪnt/  
+
+**settled** _adj._  
+> uk /ˈset.<sup>ə</sup>ld/ us /ˈset̬.<sup>ə</sup>ld/  
+
+**protester** (also **protestor**) _n._  
+> uk /prəˈtes.tə<sup>r</sup>/ us /prəˈtes.tɚ/  
+
+**Secretary** _n._  
+> uk /ˈsek.rə.t<sup>ə</sup>ri/ us /ˈsek.ter.i/  
+
+**secretary** _n._  
+> uk /ˈsek.rə.t<sup>ə</sup>r.i/ us /ˈsek.rə.ter.i/  
+
+**deputy** _n._  
+> uk /ˈdep.jə.ti/ us /ˈdep.jə.t̬i/  
+
+**outlet** _n._  
+> uk /ˈaʊt.let/ us /ˈaʊt.let/  
+
+**related** _adj._  
+> uk /rɪˈleɪ.tɪd/ us /rɪˈleɪ.t̬ɪd/  
+
+**blackout** _n._  
+> uk /ˈblæk.aʊt/ us /ˈblæk.aʊt/  
+
+**farmland** _n._  
+> uk /ˈfɑːm.lænd/ us /ˈfɑːrm.lænd/  
+
+**weapon** _n._  
+> uk /ˈwep.ən/ us /ˈwep.ən/  
+
+**armed** _adj._  
+> uk /ɑːmd/ us /ɑːrmd/  
+
+**roadblock** _n._  
+> uk /ˈrəʊd.blɒk/ us /ˈroʊd.blɑːk/  
+
+**erect**  
+_v._  
+> uk /ɪˈrekt/ us /ɪˈrekt/  
+
+_adj._  
+> uk /ɪˈrekt/ us /ɪˈrekt/  
+
+**expel** _v._  
+> uk /ɪkˈspel/ us /ɪkˈspel/  
+
+**physically** _adv._  
+> uk /ˈfɪz.ɪ.k<sup>ə</sup>l.i/ us /ˈfɪz.ɪ.k<sup>ə</sup>l.i/  
+
+2023-09-28  
+
+**mobilize** (UK usually **mobilise**) _v._  
+> uk /ˈməʊ.bɪ.laɪz/ us /ˈmoʊ.bə.laɪz/  
+
+**custody** _n._  
+> uk /ˈkʌs.tə.di/ us /ˈkʌs.tə.di/  
+
+**villager** _n._  
+> uk /ˈvɪl.ɪ.dʒə<sup>r</sup>/ us /ˈvɪl.ɪ.dʒɚ/  
+
+**revolt**  
+_v._  
+> uk /rɪˈvəʊlt/ us /rɪˈvoʊlt/  
+
+_n._  
+> uk /rɪˈvəʊlt/ us /rɪˈvoʊlt/  
+
+**escalate** _v._  
+> uk /ˈes.kə.leɪt/ us /ˈes.kə.leɪt/  
+
+**aggrieved** _adj._  
+> uk /əˈɡriːvd/ us /əˈɡriːvd/  
+
+**protest**  
+_n._  
+> uk /ˈprəʊ.test/ us /ˈproʊ.test/  
+
+_v._  
+> uk /prəˈtest/ us /proʊˈtest/  
+
+**small-scale** _adj._  
+> uk /ˈsmɔːl.skeɪl/ us /ˈsmɑːl.skeɪl/  
+
+**relatively** _adv._  
+> uk /ˈrel.ə.tɪv.li/ us /ˈrel.ə.t̬ɪv.li/  
+
+**cahoots** _n._  
+> uk /kəˈhuːts/ us /kəˈhuːts/  
+
+**erupt** _v._  
+> uk /ɪˈrʌpt/ us /ɪˈrʌpt/  
+
+**vast** _adj._  
+> uk /vɑːst/ us /væst/  
+
+**preconceived** _adj._  
+> uk /ˌpriː.kənˈsiːvd/ us /ˌpriː.kənˈsiːvd/  
+
+**parliament** _n._  
+> uk /ˈpɑː.lɪ.mənt/ us /ˈpɑːr.lə.mənt/  
+
+**president** _n._  
+> uk /ˈprez.ɪ.d<sup>ə</sup>nt/ us /ˈprez.ɪ.d<sup>ə</sup>nt/  
+
+**election** _n._  
+> uk /iˈlek.ʃ<sup>ə</sup>n/ us /iˈlek.ʃ<sup>ə</sup>n/  
+
+**vote**  
+_v._  
+> uk /vəʊt/ us /voʊt/  
+
+_n._  
+> uk /vəʊt/ us /voʊt/  
+
+**democracy** _n._  
+> uk /dɪˈmɒk.rə.si/ us /-ˈmɑː.krə-/  
+
+**communism**  (also **Communism**) _n._  
+> uk /ˈkɒm.jə.nɪ.z<sup>ə</sup>m/ us /ˈkɑː.m.jə.nɪ.z<sup>ə</sup>m/  
+
+**predate** _v._  
+> uk /ˌpriːˈdeɪt/ us /ˌpriːˈdeɪt/  
+
+**mindset** _n._  
+> uk /ˈmaɪnd.set/ us /ˈmaɪnd.set/  
+
+**deviation** _n._  
+> uk /ˌdiː.viˈeɪ.ʃ<sup>ə</sup>n/ us /ˌdiː.viˈeɪ.ʃ<sup>ə</sup>n/  
+
+**enhance** _v._  
+> uk /ɪnˈhɑːns/ us /ɪnˈhæns/  
+
+**deep-seated** (also **deep-rooted**, **deeply rooted**) _adj._  
+> uk /ˌdiːpˈsiː.tɪd/ us /ˌdiːpˈsiː.t̬ɪd/  
+
+**prosperous** _adj._  
+> uk /ˈprɒs.p<sup>ə</sup>r.əs/ us /ˈprɑː.spɚ.əs/  
+
+**cardinal**  
+_n._  
+> uk /ˈkɑː.dɪ.n<sup>ə</sup>l/ us /ˈkɑːr.dɪ.n<sup>ə</sup>l/  
+
+_adj._  
+> uk /ˈkɑː.dɪ.n<sup>ə</sup>l/ us /ˈkɑːr.dɪ.n<sup>ə</sup>l/  
+
+**chaos** _n._  
+> uk /ˈkeɪ.ɒs/ us /ˈkeɪ.ɑːs/  
+
+2023-09-26  
+
+**exclude** _v._  
+> uk /ɪkˈskluːd/ us /ɪkˈskluːd/  
+
+**anaconda** _n._  
+> uk /ˌæn.əˈkɒn.də/ us /ˌæn.əˈkɑːn.də/  
+
+**wrap**  
+_v._  
+> uk /ræp/ us /ræp/  
+
+_n._  
+> uk /ræp/ us /ræp/  
+
+2023-09-25  
+
+**inflate** _v._  
+> uk /ɪnˈfleɪt/ us /ɪnˈfleɪt/  
+
+**copper** _n._  
+> uk /ˈkɒp.ə<sup>r</sup>/ us /ˈkɑː.pɚ/  
+
+**closet**  
+_n._  
+> uk /ˈklɒz.ɪt/ us /ˈklɑː.zət/  
+
+_v._  
+> uk /ˈklɒz.ɪt/ us /ˈklɑː.zɪt/  
+
+_adj._  
+> uk /ˈklɒz.ɪt/ us /ˈklɑː.zət/  
+
+**miscellaneous** _adj._  
+> uk /ˌmɪs.<sup>ə</sup>lˈeɪ.ni.əs/ us /ˌmɪs.<sup>ə</sup>lˈeɪ.ni.əs/  
+
+**simulation** _n._  
+> uk /ˌsɪm.jəˈleɪ.ʃ<sup>ə</sup>n/ us /ˌsɪm.jəˈleɪ.ʃ<sup>ə</sup>n/  
+
+2023-09-24  
+
+**squeeze**  
+_v._  
+> uk /skwiːz/ us /skwiːz/  
+
+_n._  
+> uk /skwiːz/ us /skwiːz/  
+
+**modification** _n._  
+> uk /ˌmɒd.ɪ.fɪˈkeɪ.ʃ<sup>ə</sup>n/ us /ˌmɑː.də.fəˈkeɪ.ʃ<sup>ə</sup>n/  
+
+**benchmark**  
+_n._  
+> uk /ˈbentʃ.mɑːk/ us /ˈbentʃ.mɑːrk/  
+
+_v._  
+> uk /ˈbentʃ.mɑːk/ us /ˈbentʃ.mɑːrk/  
+
+**autonomous** _adj._  
+> uk /ɔːˈtɒn.ə.məs/ us /ɑːˈtɑː.nə.məs/  
+
+**rocket**  
+_n._  
+> uk /ˈrɒk.ɪt/ us /ˈrɑː.kɪt/  
+
+_v._ (also **skyrocket**)  
+> uk /ˈrɒk.ɪt/ us /ˈrɑː.kɪt/  
+
+**leadership** _n._  
+> uk /ˈliː.də.ʃɪp/ us /ˈliː.dɚ.ʃɪp/  
+
+2023-09-23  
+
+**ring**  
+_n._  
+> uk /rɪŋ/ us /rɪŋ/  
+
+_v._  
+> uk /rɪŋ/ us /rɪŋ/  
+
+**relevance** (also **relevancy**) _n._  
+> uk /ˈrel.ə.v<sup>ə</sup>ns/ us /ˈrel.ə.v<sup>ə</sup>ns/  
+
+**latency** _n._  
+> uk /ˈleɪ.t<sup>ə</sup>n.si/ us /ˈleɪ.t<sup>ə</sup>n.si/  
+
+2023-09-22  
+
+**particle** _n._  
+> uk /ˈpɑː.tɪ.k<sup>ə</sup>l/ us /ˈpɑːr.t̬ə.k<sup>ə</sup>l/  
+
+2023-09-21  
+
+**chop**  
+_v._  
+> uk /tʃɒp/ us /tʃɑːp/  
+
+_n._  
+> uk /tʃɒp/ us /tʃɑːp/  
+
+**unexpectedly** _adv._  
+> uk /ˌʌn.ɪkˈspek.tɪd.li/ us /ˌʌn.ɪkˈspek.tɪd.li/  
+
+2023-09-20  
+
+**troll**  
+_n._  
+> uk /trəʊl/ /trɒl/ us /troʊl/  
+
+_v._  
+> uk /trəʊl/ /trɒl/ us /troʊl/  
+
+**encrypt** _v._  
+> uk /ɪnˈkrɪpt/ us /ɪnˈkrɪpt/  
+
+2023-09-19  
+
+**tunnel**  
+_n._  
+> uk /ˈtʌn.<sup>ə</sup>l/ us /ˈtʌn.<sup>ə</sup>l/  
+
+_v._  
+> uk /ˈtʌn.<sup>ə</sup>l/ us /ˈtʌn.<sup>ə</sup>l/  
+
+**buggy**  
+_n._  
+> uk /ˈbʌɡ.i/ us /ˈbʌɡ.i/  
+
+_adj._  
+> uk /ˈbʌɡ.i/ us /ˈbʌɡ.i/  
+
+**adapter**  _n._ (also **adaptor**)  
+> uk /əˈdæp.tə<sup>r</sup>/ us /əˈdæp.tɚ/  
+
+2023-09-18  
+
+**generality** _n._  
+> uk /ˌdʒen.əˈræl.ə.ti/ us /ˌdʒen.əˈræl.ə.t̬i/  
+
+**accordance** _n._  
+> uk /əˈkɔː.d<sup>ə</sup>ns/ us /əˈkɔːr.d<sup>ə</sup>ns/  
+
+**incident**  
+_n._  
+> uk /ˈɪn.sɪ.d<sup>ə</sup>nt/ us /ˈɪn.sɪ.d<sup>ə</sup>nt/  
+
+_adj._  
+> uk /ˈɪn.sɪ.d<sup>ə</sup>nt/ us /ˈɪn.sɪ.d<sup>ə</sup>nt/  
+
+**snarf** _v._  
+> uk /snɑːf/ us /snɑːrf/  
+
+**sniff**  
+_v._  
+> uk /snɪf/ us /snɪf/  
+
+_n._  
+> uk /snɪf/ us /snɪf/  
+
+**swap**  
+_v._ (alsoUK **swop** **-pp-**)  
+> uk /swɒp/ us /swɑːp/  
+
+_n._ (UK also **swop**)  
+> uk /swɒp/ us /swɑːp/  
+
+2023-09-17  
+
+**spoof**  
+_n._  
+> uk /spuːf/ us /spuːf/  
+
+_v._  
+> uk /spuːf/ us /spuːf/  
+
+2023-09-15  
+
+**emphasis** <small>plural **emphases**</small> _n._  
+> uk /ˈem.fə.sɪs/ us /ˈem.fə.sɪs/  
+
+**trigger**  
+_n._  
+> uk /ˈtrɪɡ.ə<sup>r</sup>/ us /ˈtrɪɡ.ɚ/  
+
+_v._  
+> uk /ˈtrɪɡ.ə<sup>r</sup>/ us /ˈtrɪɡ.ɚ/  
+
+2023-09-14  
+
+**spacey** _adj._ (also **spacy**)  
+> uk /ˈspeɪ.si/ us /ˈspeɪ.si/  
+
+**descendant** _n._  
+> uk /dɪˈsen.d<sup>ə</sup>nt/ us /dɪˈsen.d<sup>ə</sup>nt/  
+
+2023-09-13  
+
+**recursively** _adv._  
+> uk/rɪˈkɜː.sɪv.li/ us/rɪˈkɝː.sɪv.li/  
+
+**macro** <small>plural **macros**</small> _n._  
+> uk /ˈmæk.rəʊ/ us /ˈmæk.roʊ/  
+
+**unregistered** _adj._  
+> uk/ʌnˈredʒ.ɪ.stəd/ us/ʌnˈredʒ.ɪ.stɚd/
+
+2023-09-11  
+
+**panic**  
+_n._  
+> uk /ˈpæn.ɪk/ us /ˈpæn.ɪk/  
+
+_v._  
+> uk /ˈpæn.ɪk/ us /ˈpæn.ɪk/  
+
+**externally** _adv._  
+> uk /ɪkˈstɜː.n<sup>ə</sup>l.i/ us /ɪkˈstɝː.n<sup>ə</sup>l.i/  
+
+**inspection** _n._  
+> uk /ɪnˈspek.ʃ<sup>ə</sup>n/ us /ɪnˈspek.ʃ<sup>ə</sup>n/  
+
+**snoop**  
+_v._  
+> uk /snuːp/ us /snuːp/  
+
+_n._  
+> uk /snuːp/ us /snuːp/  
+
+**glance**  
+_v._  
+> uk /ɡlɑːns/ us /ɡlæns/  
+
+_n._  
+> uk /ɡlɑːns/ us /ɡlæns/  
+
+2023-09-10  
+
+**rescue**  
+_v._  
+> uk /ˈres.kjuː/ us /ˈres.kjuː/  
+
+_n._  
+> uk /ˈres.kjuː/ us /ˈres.kjuː/  
+
+2023-09-09  
+
+**suffix**  
+_n._  
+> uk /ˈsʌf.ɪks/ us /ˈsʌf.ɪks/  
+
+**carrier** _n._  
+> uk /ˈkær.i.ə<sup>r</sup>/ us /ˈker.i.ɚ/  
+
+**acknowledge**  
+_v._  
+> uk /əkˈnɒl.ɪdʒ/ us /əkˈnɑː.lɪdʒ/  
+
+**duration** _n._  
+> uk /djʊəˈreɪ.ʃ<sup>ə</sup>n/ us /duː-/  
+
+**transport**  
+_n._  
+> uk /ˈtræn.spɔːt/ us /ˈtræn.spɔːrt/  
+
+_v._  
+> uk /trænˈspɔːt/ us /trænˈspɔːrt/  
+
+**broadcast**  
+_v._  
+> uk /ˈbrɔːd.kɑːst/ us /ˈbrɑːd.kæst/  
+
+_n._  
+> uk /ˈbrɔːd.kɑːst/ us /ˈbrɑːd.kæst/  
+
+_adj._ US (UK **terrestrial**)  
+
+**analyser** (US **analyzer**) _n._  
+> uk /ˈæn.<sup>ə</sup>l.aɪ.zə<sup>r</sup>/ us /ˈæn.<sup>ə</sup>l.aɪ.zɚ/  
+
+**cable**  
+_n._  
+> uk /ˈkeɪ.b<sup>ə</sup>l/ us /ˈkeɪ.b<sup>ə</sup>l/  
+
+_v._  
+> uk /ˈkeɪ.b<sup>ə</sup>l/ us /ˈkeɪ.b<sup>ə</sup>l/  
+
+**shield**  
+_n._  
+> uk /ʃiːld/ us /ʃiːld/  
+
+_v._  
+> uk /ʃiːld/ us /ʃiːld/  
+
+**twisted** _adj._  
+> uk /ˈtwɪs.tɪd/ us /ˈtwɪs.tɪd/  
+
+2023-09-08  
+
+**axis** _n._  
+> uk /ˈæk.sɪs/ us /ˈæk.sɪs/
+
+2023-08-31  
+
+**adjustment** _n._  
+> uk /əˈdʒʌst.mənt/ us /əˈdʒʌst.mənt/  
+
 2023-08-27  
 
 **established** _adj._  
@@ -2671,6 +3496,9 @@ to try to do something, especially something difficult （尤指为完成难事�
 - <small>[ + to infinitive ]</small> He attempted to escape through a window.  
   他企图跳窗逃跑。  
 
+_n._  
+> uk /əˈtempt/ us /əˈtempt/  
+
 **entity** _n._ <small>formal</small>  
 > uk /ˈen.tɪ.ti/ us /ˈen.t̬ə.t̬i/  
 
@@ -3726,14 +4554,16 @@ _determiner, pronoun, conjunction_ uk /ˈaɪ.ðə<sup>r</sup>/ /ˈiː.ðə<sup>r
 _determiner_ uk /ˈaɪ.ðə<sup>r</sup>/ /ˈiː.ðə<sup>r</sup>/ us /ˈiː.ðɚ/ /ˈaɪ.ðɚ/  
 
 **legitimate**  
-_adj._ /ləˈdʒɪt.ə.mət/  
+_adj._  
+> uk /ləˈdʒɪt.ə.mət/ us /ləˈdʒɪt̬.ə.mət/  
 
 * allowed by law  
   合法的，正当的，法律允许的  
 * reasonable and acceptable  
   合理的，可接受的，得到认可的  
 
-_v._ /ləˈdʒɪt.ə.məɪt/  
+_v._ (also **legitimize**)  
+> uk /ləˈdʒɪt.ə.məɪt/ us /ləˈdʒɪt̬.ə.məɪt/  
 
 **curly** /ˈkɜː.li/ _adj._ having curls or a curved shape 鬈曲的，卷曲的  
 
@@ -3820,7 +4650,8 @@ _adv._ despite this 可是，不过，然而
 
 **alphabetization** <small>(UK usually **alphabetisation**)</small> /ˌæl.fə.bət.aɪˈzeɪ.ʃ<sup>ə</sup>n/ _n._  
 
-**literally** /ˈlɪt.<sup>ə</sup>r.<sup>ə</sup>l.i/ _adv._  
+**literally** _adv._  
+> uk /ˈlɪt.<sup>ə</sup>r.<sup>ə</sup>l.i/ us /ˈlɪt̬.ɚ.<sup>ə</sup>l.i/  
 
 **probably** /ˈprɒb.ə.bli/ _adv_ used to mean that something is very likely 很可能；大概  
 - I'll probably be home by midnight.  
@@ -4341,7 +5172,9 @@ _n._ /ˈdɪk.teɪt/ an order that should be obeyed, often one that you give to y
 - the dictates of conscience/common sense  
   良心／情理的驱使  
 
-**principle** /ˈprɪn.sə.p<sup>ə</sup>l/ _n._  
+**principle** _n._  
+> uk /ˈprɪn.sə.p<sup>ə</sup>l/ us /ˈprɪn.sə.p<sup>ə</sup>l/  
+
 * <small>(IDEA)</small> a basic idea or rule that explains or controls how something happens or works  
   原理；原则  
   - the principles of the criminal justice system  
@@ -5900,6 +6733,7 @@ _v._
   解决；解除；消除  
 
 _n._  
+> uk /rɪˈzɒlv/ us /rɪˈzɑːlv/  
 
 **invaluable** /ɪnˈvæl.jə.b<sup>ə</sup>l/ _adj._ extremely useful 极有用的，宝贵的  
 - The new job will provide you with invaluable experience.  
@@ -6704,8 +7538,6 @@ _adj._
 
 _n._  
 _v._  
-
-**strategy** /ˈstræt.ə.dʒi/ _n._ a detailed plan for achieving success in situations such as war, politics, business, industry, or sport, or the skill of planning for such situations 战略；策略；计谋；行动计划；策划，部署  
 
 **sequential** _adj._  
 > uk /sɪˈkwen.ʃ<sup>ə</sup>l/ us /sɪˈkwen.ʃ<sup>ə</sup>l/  
@@ -7846,7 +8678,8 @@ _v._ (also **e-mail**) /ˈiː.meɪl/
 
 * to send an email to someone 给…发电子邮件  
 
-**assume** /əˈsjuːm/ _v._  
+**assume** _v._  
+> uk /əˈsjuːm/ us /əˈsuːm/  
 
 * <small>(ACCEPT)</small> to accept something to be true without question or proof 假定，假设；臆断，想当然地认为  
 
@@ -8574,7 +9407,11 @@ _n._ /ɡʌn/
 * 心态；看法；态度  
 
 **analyse** <small>UK (US **analyze**)</small> /ˈæn.<sup>ə</sup>l.aɪz/ 分析  
-**evidence** /ˈev.ɪ.d<sup>ə</sup>ns/ 证据；证明  
+
+**evidence** _n._  
+> uk /ˈev.ɪ.d<sup>ə</sup>ns/ us /ˈev.ə.d<sup>ə</sup>ns/  
+
+证据；证明  
 
 **evaluate** _v._  
 > uk /ɪˈvæl.ju.eɪt/ us /ɪˈvæl.ju.eɪt/  
@@ -8586,8 +9423,11 @@ to judge or calculate the quality, importance, amount, or value of something 评
   我们需要对新材料的耐磨损度作出鉴定。  
 
 **thesaurus** /θɪˈsɔː.rəs/ _n._ 同义词词典  
+
 2022-04-27  
-**symbolic** /sɪmˈbɒl.ɪk/ _adj._  
+
+**symbolic** (also **symbolical**) _adj._  
+> uk /sɪmˈbɒl.ɪk/ us /sɪmˈbɑː.lɪk/  
 
 * 代表的，象征的  
 
@@ -8671,7 +9511,8 @@ _n._ /əˈfɪʃ.<sup>ə</sup>l/ 官员；要员；高级职员
 - a government/trade-union/council official  
   政府官员／工会要员／市政会官员  
 
-**authority** /ɔːˈθɒr.ə.ti/ _n._  
+**authority** _n._  
+> uk /ɔːˈθɒr.ə.ti/ us /əˈθɔːr.ə.t̬i/  
 
 * 威信；权力；管辖权  
   - The United Nations has used/exerted/exercised its authority to restore peace in the area.  
@@ -9409,11 +10250,19 @@ _pronoun_
 
 **shape** _n._ /ʃeɪp/ 形状，形态，外形 _v._ /ʃeɪp/ 决定（或影响）（尤指信仰或思想）的形式；决定，影响（性格）  
 **necessarily** /ˈnes.ə.ser.ɪl.i/ adv. （用于否定句）不可避免地，必然地  
-**chief** adj. /tʃiːf/ 首要的；最重要的；最主要的  
+
+**chief**  
+_adj._  
+> uk /tʃiːf/ us /tʃiːf/  
+
+首要的；最重要的；最主要的  
 > * The chief problem we have in the area now is the spread of disease.  
 > 目前我们在这一地区面临的首要问题是疾病的蔓延。  
 > * The weather was our chief reason for coming here.  
 > 天气是我们来这里的主要原因。
+
+_n._  
+> uk /tʃiːf/ us /tʃiːf/  
 
 **frankly** adv. /ˈfræŋ.kli/ 坦率地，坦诚地  
 > She spoke very frankly about her experiences. 她非常坦率地讲述了自己的经历。  
