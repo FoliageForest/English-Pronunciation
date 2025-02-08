@@ -1,3 +1,62 @@
+2023-12-26  
+
+**ellipsis**  
+_n._  
+> uk /iˈlɪp.sɪs/ us /iˈlɪp.sɪs/  
+
+**fluid**  
+_n._  
+> uk /ˈfluː.ɪd/ us /ˈfluː.ɪd/  
+
+_adj._  
+> uk /ˈfluː.ɪd/ us /ˈfluː.ɪd/  
+
+2023-12-25  
+
+**stretch**  
+_v._  
+> uk /stretʃ/ us /stretʃ/  
+
+_n._  
+> uk /stretʃ/ us /stretʃ/  
+
+2023-12-22  
+
+**rotate**  
+_v._  
+> uk /rəʊˈteɪt/ us /ˈroʊ.teɪt/  
+
+**breadcrumb**  
+_n._  
+> uk /ˈbred.krʌm/ us /ˈbred.krʌm/  
+
+2023-12-05  
+
+**ease**  
+_v._  
+> uk /iːz/ us /iːz/  
+
+_n._  
+> uk /iːz/ us /iːz/  
+
+**dispatch**  
+_v._  
+> uk /dɪˈspætʃ/ us /dɪˈspætʃ/  
+
+_n._  
+> uk /dɪˈspætʃ/ us /dɪˈspætʃ/  
+
+2023-12-01  
+
+**production**  
+_n._  
+> uk /prəˈdʌk.ʃ<sup>ə</sup>n/ us /prəˈdʌk.ʃ<sup>ə</sup>n/  
+
+2023-11-26  
+
+**aggregation** _n._  
+> uk /ˌæɡ.rɪˈɡeɪ.ʃ<sup>ə</sup>n/ us /ˌæɡ.rəˈɡeɪ.ʃ<sup>ə</sup>n/  
+
 2023-11-23  
 
 **malicious** _adj._  
